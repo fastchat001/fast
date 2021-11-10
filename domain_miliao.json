@@ -1,0 +1,8 @@
+[
+    {
+        "baseURL": "https://api.ear-drummer.com:8443",
+        "wsURL": "wss.ear-drummer.com:8443",
+        "staticType": 1,
+        "staticUrl": "https://file.salviant.com:8443"
+    }
+]
