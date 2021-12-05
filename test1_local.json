@@ -1,0 +1,8 @@
+[
+    {
+        "baseURL": "https://104.233.161.183:443",
+        "wsURL": "wss://104.233.161.192:443",
+        "staticType": 1,
+        "staticUrl": "https://file.58yue.me:8443"
+    }
+]
