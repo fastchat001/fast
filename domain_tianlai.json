@@ -10,5 +10,11 @@
         "wsURL": "wss://wss.75955005.top:8443",
         "staticType": 1,
         "staticUrl": "https://file.69184622.top:8443"
+    },
+    {
+        "baseURL": "https://api-jp-cn2.397824722.xyz:8443",
+        "wsURL": "wss://wss-jp-cn2.397824722.xyz:8443",
+        "staticType": 1,
+        "staticUrl": "https://file.69184622.top:8443"
     }
 ]
