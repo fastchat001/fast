@@ -1,0 +1,8 @@
+[
+    {
+        "baseURL": "https://api.salviant.com",
+        "wsURL": "wss://wss.salviant.com",
+        "staticType": 1,
+        "https://file.salviant.com"
+    }
+]
